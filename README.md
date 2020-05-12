@@ -1,0 +1,2 @@
+# Web-Scraper-Java-JSOUP-
+Made a simple web scraper using java with the Jsoup library and the Ublock chrome extension to extract information from two tables one for subjects and one for courses for a particular subject which the program is able to extract. The program is able to access the url of courses for a particular subject using the subject table since each subject has a hidden url. Website: https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea.
